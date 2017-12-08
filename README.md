@@ -12,6 +12,7 @@ Install:
     sudo apt update 
     sudo apt install python-dev 
     sudo pip install keras
+    
     sudo pip install h5py imageio 
 
 Performance:
