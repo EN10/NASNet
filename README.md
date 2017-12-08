@@ -22,5 +22,5 @@ Performance:
 c9 Disk Usage Before:
 
     du -hd1 /
-    54M	    /home
+    54M     /home
     2.0G	/usr
