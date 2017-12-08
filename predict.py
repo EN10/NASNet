@@ -7,7 +7,7 @@ from imageio import imread
 from nasnet import mobile, preprocess
 import nasnet
 
-image = imread('peacock.jpg')
+image = imread('image.jpg')
 
 model = nasnet.mobile()
 model.load_weights('mobile.h5')
