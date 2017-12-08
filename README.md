@@ -17,6 +17,11 @@ Install:
     wget https://github.com/EN10/BuildTF/raw/771df48529285c69ef760327121e996750b3916e/tensorflow-1.4.0-cp27-none-linux_x86_64.whl    
     sudo pip install --ignore-installed --upgrade tensorflow-1.4.0-cp27-none-linux_x86_64.whl
     
+    sudo pip install jupyter
+    sudo pip install matplotlib
+    sudo pip install imageio 
+    jupyter notebook --ip=0.0.0.0 --port=8080 --no-browser
+    
 c9 Disk Usage Before:
 
     du -hd1 /
