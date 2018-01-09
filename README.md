@@ -41,3 +41,5 @@ c9 Disk Usage Before:
     du -hd1 /
     54M     /home
     2.0G	/usr
+    
+c9 free supports: 1GB RAM & 5GB HDD
