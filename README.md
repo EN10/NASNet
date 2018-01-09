@@ -3,6 +3,7 @@
 * [Google NASNet Blog](https://research.googleblog.com/2017/11/automl-for-large-scale-image.html)
 * [NASnet Keras](https://github.com/johannesu/NASNet-keras)
 * [Inception Keras](https://github.com/EN10/KerasInception)
+* [Keras Weights](https://github.com/titu1994/Keras-NASNet/releases)
 
 ### Install:
 
