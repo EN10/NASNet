@@ -29,3 +29,11 @@ c9 Disk Usage Before:
     du -hd1 /
     54M     /home
     2.0G	/usr
+    
+Error:
+
+`The TensorFlow library was compiled to use AVX2 instructions, but these aren't available on your machine.`
+
+AVX2 flag missing from your CPU.
+
+    less /proc/cpuinfo 
